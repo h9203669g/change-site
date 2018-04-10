@@ -2,6 +2,7 @@
   "name": "change-site",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://h9203669g.github.io/change-site",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -20,7 +21,6 @@
     "eject": "react-scripts eject",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://h9203669g.github.io/changeduosite",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
