@@ -1,0 +1,129 @@
+[	
+	[
+		{"id": 0,
+		"type": "about",
+		"titleEn": "Change Duo Studio",
+		"titleTw": "澄之朵工作室",
+		"contentEn": "Change duo Studio is a Taiwan design group, founded on the ideas that design form can serve algrothim,media, space, and activites inspiring surroundings and arising a positive effect on people’s lives.\nLed by a couple of owners, studio work can be founded homes—often for creative production, web site,art collectors—to academic, cultural and civic projects",
+		"contentTw": "澄之朵工作室是台灣的設計團體，致力於透過演算法、多媒體、空間、活動策略來改善並活化人們的生活與環境。\n由蕭澄之、黃瑋婕主持，工作室的工作項目含括平面設計、網頁設計、空間設計、並展現出對當代藝術觀點、演算技術與文化涵構的關懷。"
+		},
+		{"id": 1,
+		"type": "about",
+		"titleEn": "Change Hsiao",
+		"titleTw": "蕭澄之",
+		"contentEn": "Change Hsiao is graduated form Department Architecture of TamKang Universitey as the doctor of philosophy degree.\n His research field foucus upon algrothim, media, space, and activitesfor creative production, web site, art collectors—to academic, cultural and civic projects",
+		"contentTw": "現任澄之朵工作室設計總監。\n淡江大學建築系助理教授。\n專長為代理人演算法、多媒體、網頁架設、空間設計。</br>"
+		}, 
+		{"id": 2,
+		"type": "about",
+		"titleEn": "Duo Huang",
+		"titleTw": "黃瑋婕",
+		"contentEn": "Change duo Studio is a Taiwan design group, founded on the ideas that design form can serve algrothim, media, space, and activites inspiring surroundings and arising a positive effect on people’s lives.\nLed by a couple of owners, studio work can be founded homes—often for creative production, web site, art collectors—to academic, cultural and civic projects",
+		"contentTw": "現任澄之朵工作室執行長。\n台中市客家委員會藝術顧問。\n專長為活動企劃、音樂創作、舞蹈編排。"
+		}
+	],
+	[
+		{"id": 0,
+		"type": "service",
+		"titleEn": "Graphic",
+		"titleTw": "平面設計",
+		"contentEn": "Graphic, Visual Communication,\nMerchandise Production",
+		"contentTw": "商用平面、\n視覺傳達設計、\n周邊創意產品製作。"
+		},
+		{"id": 1,
+		"type": "service",
+		"titleEn": "Interior",
+		"titleTw": "室內設計",
+		"contentEn": "Architecture, Interior,\nRender, BIM Model,\nDrawing, Construction, Design",
+		"contentTw": "建築、室內空間、\n表現渲染圖、BIM、\n製作、設計、施工。"
+		},
+		{"id": 2,
+		"type": "service",
+		"titleEn": "WebSite",
+		"titleTw": "網站設計",
+		"contentEn": "Custom-made Website,\nBlog, SEO Planning",
+		"contentTw": "客製化網站、\n設計、SEO整合規劃。"
+		},
+		{"id": 3,
+		"type": "service",
+		"titleEn": "Performance",
+		"titleTw": "表演藝術",
+		"contentEn": "Show Planning, Creative Marketing,\nTheatre Design, Music Production",
+		"contentTw": "策略整合：\n展演策劃、活動資源、\n創意行銷、劇場設計、音樂製作。"
+		}
+	],
+	[
+		{"id": 0,
+		"type": "gallery",
+		"titleEn": "2015",
+		"titleTw": "2015",
+		"contentEn": "Graphic, Visual Communication,\nMerchandise Production",
+		"contentTw": "商用平面、\n視覺傳達設計、\n周邊創意產品製作。"
+		},
+		{"id": 1,
+		"type": "gallery",
+		"titleEn": "2016",
+		"titleTw": "2016",
+		"contentEn": "Architecture, Interior,\nRender, BIM Model,\nDrawing, Construction, Design",
+		"contentTw": "建築、室內空間、\n表現渲染圖、BIM、\n製作、設計、施工。"},
+		{"id": 2,
+		"type": "gallery",
+		"titleEn": "2017",
+		"titleTw": "網站設計",
+		"contentEn": "Custom-made Website,\nBlog, SEO Planning",
+		"contentTw": "客製化網站、\n設計、SEO整合規劃。"
+		},
+		{"id": 3,
+		"type": "gallery",
+		"titleEn": "2018",
+		"titleTw": "2018",
+		"contentEn": "Show Planning,\n Creative Marketing,\nTheatre Design, Music Production",
+		"contentTw": "策略整合：展演策劃、\n活動資源、創意行銷、\n劇場設計、音樂製作。"
+		}
+	],
+	[
+		{"id": 0,
+		"type": "lab",
+		"titleEn": "Space",
+		"titleTw": "空間",
+		"contentEn": "Graphic, Visual Communication,\nMerchandise Production",
+		"contentTw": "商用平面、\n視覺傳達設計、\n周邊創意產品製作。"
+		},
+		{"id": 1,
+		"type": "lab",
+		"titleEn": "Drama",
+		"titleTw": "戲劇",
+		"contentEn": "Architecture, Interior,\nBIM Model, Drawing, Construction, Design",
+		"contentTw": "建築、室內空間、表現渲染圖、\nBIM、製作、設計、施工。"},
+		{"id": 2,
+		"type": "lab",
+		"titleEn": "Music",
+		"titleTw": "音樂",
+		"contentEn": "Custom-made Website,\nBlog, SEO Planning",
+		"contentTw": "客製化網站、\n設計、SEO整合規劃。"
+		},
+		{"id": 3,
+		"type": "lab",
+		"titleEn": "Dance",
+		"titleTw": "舞蹈",
+		"contentEn": "Show Planning,\nCreative Marketing,\nTheatre Design, Music Production",
+		"contentTw": "策略整合：展演策劃、\n活動資源、創意行銷、\n劇場設計、音樂製作。"
+		}
+	],
+	[
+		{"id": 0,
+		"type": "contact",
+		"titleEn": "Info",
+		"titleTw": "基本資料",
+		"contentEn": "Graphic, Visual Communication,\nMerchandise Production",
+		"contentTw": "商用平面、視覺傳達設計、\n周邊創意產品製作。"
+		},
+		{"id": 1,
+		"type": "contact",
+		"titleEn": "Contact",
+		"titleTw": "聯絡我們",
+		"contentEn": "Architecture, Interior,\nBIM Model, Drawing,\nConstruction, Design",
+		"contentTw": "建築、室內空間、表現渲染圖、\nBIM、製作、\n設計、施工。"
+		}
+	]
+]

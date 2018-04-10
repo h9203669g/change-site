@@ -1,0 +1,23 @@
+[{	"id": 0,
+	"titleEn": "Graphic",
+	"titleTw": "平面設計",
+	"contentEn": "Graphic, Visual Communication, Merchandise Production",
+	"contentTw": "商用平面、視覺傳達設計、周邊創意產品製作。"
+	},
+{	"id": 1,
+	"titleEn": "Interior",
+	"titleTw": "室內設計",
+	"contentEn": "Architecture, Interior, BIM Model, Drawing, Construction, Design",
+	"contentTw": "建築、室內空間、表現渲染圖、BIM、製作、設計、施工。"},
+{	"id": 2,
+	"titleEn": "WebSite",
+	"titleTw": "網站設計",
+	"contentEn": "Custom-made Website, Blog, SEO Planning",
+	"contentTw": "客製化網站、設計、SEO整合規劃。"
+	},
+{	"id": 3,
+	"titleEn": "Performance",
+	"titleTw": "表演藝術",
+	"contentEn": "Show Planning, Creative Marketing, Theatre Design, Music Production",
+	"contentTw": "策略整合：展演策劃、活動資源、創意行銷、劇場設計、音樂製作。"
+}]
